@@ -5,7 +5,7 @@
 This project aims to develop a system for the early detection of issues in 3D printing processes. By analyzing various parameters and monitoring the printing process in real-time, the system can identify potential problems and provide timely alerts, allowing users to take corrective actions.
 
 <p align="center">
-    <img src="image.png" alt="alt text">
+    <img src="printing.png" alt="alt text">
 </p>
 
 ## Results
